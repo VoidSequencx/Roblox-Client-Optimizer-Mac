@@ -1,0 +1,1 @@
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/VoidSequencx/Roblox-Client-Optimizer-Mac/main/RCOInstaller.sh | sh
