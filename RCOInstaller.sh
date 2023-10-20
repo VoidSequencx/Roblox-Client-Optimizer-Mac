@@ -1,6 +1,6 @@
 #!/bin/sh
 
-targetFps=100
+targetFps=120
 robloxPath="/Users/a/Applications/Roblox.app"
 
 if [ ! -d $robloxPath ]; then
